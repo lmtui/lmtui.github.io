@@ -6,4 +6,7 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 
 # Activity 2
 ![image](https://github.com/lmtui/lmtui.github.io/assets/99363546/a22df39f-c192-425f-9ae9-23f19361fb7d)
+![image](https://github.com/lmtui/lmtui.github.io/assets/99363546/b2198e5f-49ac-4f23-b7e0-dca9d2d3ad5e)
+
+
 
